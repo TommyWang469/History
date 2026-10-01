@@ -37,7 +37,7 @@ def inline(text):
     return text
 
 def flowables(section, scale, page_num):
-    base = 10.5 if page_num < 11 else 9.5
+    base = 10.5 if page_num < 21 else 9.5
     styles = {
         'body': ParagraphStyle('body', fontName='Body', fontSize=base*scale,
             leading=(base+2.9)*scale, textColor=INK, spaceAfter=5.5*scale),

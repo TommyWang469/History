@@ -1,7 +1,7 @@
 # U.S. Beginnings: key facts
 ## Unit 1 study guide • Short version
 
-**Review:** Colonies, p. 1 • Revolution, pp. 2-3 • Founding and government, pp. 4-7 • Parties, p. 8 • Writing, p. 9 • Practice, p. 10 • Sources, p. 11
+**Review:** Colonies, p. 1 • Revolution, pp. 2-3 • Founding and government, pp. 4-7 • Parties, p. 8 • Writing, pp. 9-12 • Practice, pp. 13-18 • Answers, pp. 19-20 • Sources, p. 21
 
 ### Pilgrims and Puritans
 **Pilgrims:** Religious Separatists left the Church of England. They settled Plymouth in **1620**. William Bradford was a key leader.
@@ -276,7 +276,7 @@ These are broad class labels, not rules for every person or issue. Both parties 
 **Radical:** Wants deep change. **Liberal:** Favors reform. **Moderate:** Near the center. **Conservative:** Values tradition and slower change. **Reactionary:** Wants to restore an earlier order.
 These labels depend on the time and issue. Radical does not automatically mean violent.
 
-Sources: New parties sheet; [17-18]. Modern labor/regulation examples also appear in the 2024 party platforms listed on p. 11.
+Sources: New parties sheet; [17-18]. Modern labor/regulation examples also appear in the 2024 party platforms listed on p. 21.
 ---PAGE---
 # 9. Seven writing prompts
 ## Short outlines for the teacher's half-page responses
@@ -322,42 +322,329 @@ Use **claim → two or three facts → why they matter**. Turn these outlines in
 
 Sources: Seven prompts from IMG_7201, shortened here; facts and sources on pp. 1-8.
 ---PAGE---
-# 10. Quick practice
-## Cover the answers first
+# 10. Example answers: 1-3
+## Use the outlines on p. 9; write in your own words
 
-**1.** How did Pilgrims and Puritans differ? Why did the Mayflower Compact matter?
-**2.** Give one geography-to-economy link for each colonial region.
-**3.** Explain the chain from the French and Indian War to independence.
-**4.** What did the First and Second Continental Congresses do?
-**5.** Why did Saratoga, Yorktown, and the Treaty of Paris matter?
-**6.** Name the Articles' main weakness and one success. Distinguish the two land ordinances.
-**7.** What did the Great Compromise and Three-Fifths Compromise decide?
-**8.** Distinguish popular sovereignty, separation of powers, checks and balances, and federalism. Does impeachment mean removal?
-**9.** Name the First Amendment's five freedoms and Fifth Amendment's five protections. What is the difference between the Sixth and Seventh?
-**10.** Define quartering, due process, self-incrimination, double jeopardy, eminent domain, and bail. Name each amendment.
-**11.** Distinguish the Ninth and Tenth Amendments. Name all three Eighth Amendment protections.
-**12.** Compare Hamilton's and Jefferson's parties. Then give two modern-party differences from the worksheet and name the five spectrum labels in order.
+### 1. What was the Mayflower Compact? Why was it important?
+The Mayflower Compact was a 1620 agreement to form a government and obey laws for the common good. The settlers needed shared rules because they had landed outside their planned settlement area. By signing the Compact, they agreed to act as one political community rather than let each person follow separate rules. This made it an early example of self-government based on consent. It helped establish the idea that people could work together to create a government and accept its laws. However, it did not create full democracy. The signers were men, and they still promised loyalty to the English king. Its importance was the practice of government by agreement, not independence from Britain or equal rights for everyone.
 
-### Answers
-**1.** Pilgrims separated from the Church of England; Puritans wanted reform. The Compact created agreed rules and showed early self-government.
-**2.** New England: rocky soil encouraged fishing/trade. Middle: fertile land supported grain. South: long growing season supported cash crops.
-**3.** British war debt → taxes and tighter control → colonial protests → British punishment → war → independence.
-**4.** First: resistance and boycott, 1774. Second: directed war from 1775 and adopted independence in 1776.
-**5.** Saratoga helped secure French alliance; Yorktown brought a major British surrender; the 1783 treaty recognized U.S. independence.
-**6.** No direct taxes meant unreliable funds. Land laws were a success: 1785 surveyed/sold land; 1787 set territorial government and statehood rules.
-**7.** Great: population-based House, equal-state Senate. Three-Fifths: counted part of the enslaved population for representation and direct taxes; gave no votes.
-**8.** Power from people; separate branch jobs; branches limit each other; national/state power division. Impeachment is House charges, not removal; Senate conviction removes.
-**9.** First: religion, speech, press, assembly, petition. Fifth: grand jury, double jeopardy, self-incrimination, due process, just compensation. Sixth: criminal trial. Seventh: qualifying civil jury trial.
-**10.** Housing soldiers (3); fair legal process (5); testimony against oneself (5); repeated criminal jeopardy for the same offense (5); public taking of property with just compensation (5); security for release and return to court (8). See p. 7 for limits.
-**11.** Ninth: rights not listed. Tenth: powers reserved. Eighth: no excessive bail, excessive fines, or cruel and unusual punishment.
-**12.** Hamilton: Federalist, stronger national power, business/bank, broad interpretation. Jefferson: Democratic-Republican, states/farmers, strict interpretation. Modern sheet: Democrats more regulation/pro-labor; Republicans less regulation/pro-business. Radical → Liberal → Moderate → Conservative → Reactionary.
+### 2. How were the three colonial regions alike and different?
+The three colonial regions shared British rule, farming, trade, slavery, and local government. Still, their geography led to different ways of life. New England had rocky soil and a short growing season, so people combined small farms with fishing, shipbuilding, and trade. Its compact towns supported churches and local schools. The Middle colonies had fertile soil and good rivers and ports. They grew grain, traded goods, and attracted people from different religious and cultural backgrounds. The Southern colonies had a longer growing season and grew cash crops such as tobacco and rice. Large plantations relied heavily on enslaved labor, though many people also lived on small farms. These differences shaped work and settlement, while British rule and shared protests later helped bring the colonies together.
 
-These are original review questions, not the teacher's test.
+### 3. Why would immigrants choose the Middle colonies?
+Immigrants might choose the Middle colonies because they offered both work and greater religious tolerance. Fertile land made grain farming a good way to earn a living. Ports such as Philadelphia and New York also offered jobs in trade, shipping, and crafts. This meant that newcomers did not all need to become farmers. The region had people from different religious and cultural backgrounds, which could help immigrants find familiar communities. Pennsylvania's Quaker influence also encouraged more religious tolerance than some other colonies offered. These conditions could attract people seeking land, jobs, or freedom to practice their faith. However, greater tolerance did not mean full equality. This explanation applies to voluntary immigrants; enslaved Africans were forced to move and could not choose where to settle.
+
+Sources: Teacher prompts from IMG_7201; review facts and sources on pp. 1-8.
 ---PAGE---
-# 11. Sources
+# 11. Example answers: 4-5
+## Use the outlines on p. 9; write in your own words
+
+### 4. How did the Declaration lay a foundation for government?
+The Declaration of Independence laid a foundation for American government by linking power to rights and the people's consent. It stated that people have rights, including life, liberty, and the pursuit of happiness. Government exists to protect those rights, so its authority should come from the people it serves. If a government repeatedly abuses its power, the people may replace it. The Declaration used these ideas to explain why the colonies were leaving Britain. These principles challenged the idea that a ruler could govern without answering to the people. The document did not create the president, Congress, or the courts; the Constitution later created that structure. Also, slavery and unequal rights continued. Even so, rights and consent became standards Americans could use to judge their government.
+
+### 5. Was the government under the Articles effective?
+The Articles of Confederation created a useful union, but the national government was too weak to solve major problems. Congress could make treaties, conduct war, and pass laws for western lands. The Land Ordinance of 1785 organized land surveys and sales, while the Northwest Ordinance of 1787 created a path to statehood. These were lasting successes. However, Congress could not tax people directly and had to ask states for money. This made paying debts and supporting the army difficult. It also lacked broad power over trade, so states could make conflicting rules. Changing the Articles required all thirteen states to agree, making reform hard. Shays' Rebellion increased concern about instability and weak national power. Overall, the Articles provided cooperation and useful land policies but lacked the strength needed for lasting national government.
+
+Sources: Teacher prompts from IMG_7201; review facts and sources on pp. 1-8.
+---PAGE---
+# 12. Example answers: 6-7
+## Use the outlines on p. 9; write in your own words
+
+### 6. How does the Constitution show separation of powers?
+The Constitution shows separation of powers by giving the national government's basic jobs to three branches. Article I gives Congress the power to make laws. Article II gives the president the job of carrying out laws. Article III creates the judiciary, which interprets laws in court cases. This division makes it harder for one branch to control every part of government. Checks and balances add another limit. For example, the president can veto a bill, but Congress can override that veto with a two-thirds vote in each house. The president also nominates federal judges, while the Senate must confirm them. Separation of powers means the branches have different jobs; checks and balances mean they can limit each other. Together, they reduce the risk of unchecked power.
+
+### 7. Pick an amendment and explain why it matters to democracy.
+The First Amendment protects religion, speech, the press, peaceful assembly, and the right to petition government. These rights matter because democracy requires people to discuss public problems and challenge leaders. Free speech lets people criticize government policies. A free press can investigate officials and give voters information they need. Peaceful assembly allows people to organize around shared concerns, while petition lets them ask government for change. Religious freedom also limits government control over personal beliefs. Without these protections, officials could silence opponents and make elections less meaningful. The rights are not unlimited, but they provide strong protection for public debate. The First Amendment therefore helps people take part in government and hold leaders responsible for their actions.
+
+Sources: Teacher prompts from IMG_7201; review facts and sources on pp. 1-8.
+---PAGE---
+# 13. Fill in the blanks
+## 20 questions • Use each word-bank entry once
+
+### Word bank
+judicial • Middle colonies • Treaty of Paris • Seventh Amendment • Stamp Act
+Articles of Confederation • Mayflower Compact • Tenth Amendment • Saratoga • Great Compromise
+Great Awakening • petition • Yorktown • Enlightenment • Ninth Amendment
+Shays' Rebellion • Common Sense • Sixth Amendment • Puritans • executive
+
+### Questions
+**1.** The 1620 agreement to form a government and follow shared laws was the ________________________.
+**2.** The religious group that wanted to reform the Church of England was the ________________________.
+**3.** New York, New Jersey, Pennsylvania, and Delaware formed the ________________________.
+**4.** The ________________________ stressed reason and natural rights.
+**5.** The religious revivals of the 1730s-1740s were the ________________________.
+**6.** The 1765 tax on printed and legal papers was the ________________________.
+**7.** Thomas Paine argued for independence in his pamphlet ________________________.
+**8.** The American victory at ________________________ helped secure the French alliance.
+**9.** Cornwallis surrendered at ________________________ in 1781.
+**10.** Britain recognized U.S. independence in the ________________________.
+**11.** The first U.S. national constitution was the ________________________.
+**12.** The 1786-1787 farmer uprising in Massachusetts was ________________________.
+**13.** The ________________________ created a population-based House and an equal-state Senate.
+**14.** The ________________________ branch's main job is to enforce laws.
+**15.** The ________________________ branch interprets laws in court cases.
+**16.** The First Amendment right to ask government to address complaints is ________________________.
+**17.** A speedy, public criminal trial and a lawyer are protected by the ________________________.
+**18.** Jury trials in qualifying federal civil cases are protected by the ________________________.
+**19.** Rights kept by the people even if unlisted are covered by the ________________________.
+**20.** Powers reserved to states or the people are covered by the ________________________.
+
+Sources: Review pp. 1-8. Answer key: p. 19.
+---PAGE---
+# 14. Matching
+## 20 questions • Write the correct letter in each blank
+
+### Set 1: questions 1-10
+Use each choice (A-J) once in this set.
+**A.** Eminent domain • **B.** Popular sovereignty • **C.** Double jeopardy • **D.** Federalism • **E.** Quartering of troops
+**F.** Checks and balances • **G.** Due process • **H.** Bail • **I.** Separation of powers • **J.** Self-incrimination
+
+**1.** ____ Government must follow lawful, fair procedures.
+**2.** ____ Government power comes from the people.
+**3.** ____ Money or security tied to release before trial and returning to court.
+**4.** ____ Housing soldiers.
+**5.** ____ Power is divided between national and state governments.
+**6.** ____ Giving testimony that could help prove your own criminal guilt.
+**7.** ____ Government takes private property for public use and pays just compensation.
+**8.** ____ Branches can limit each other.
+**9.** ____ Being put in criminal jeopardy twice for the same offense.
+**10.** ____ Branches have different basic jobs.
+
+### Set 2: questions 11-20
+Use each choice (K-T) once in this set.
+**K.** New Jersey Plan • **L.** Democratic-Republicans • **M.** Land Ordinance of 1785 • **N.** Federalist Party • **O.** Reactionary
+**P.** Northwest Ordinance of 1787 • **Q.** Virginia Plan • **R.** Moderate • **S.** Radical • **T.** Great Compromise
+
+**11.** ____ Party linked to Hamilton, a national bank, and stronger national power.
+**12.** ____ Plan for one house with equal state votes.
+**13.** ____ Law that set a path from territory to equal statehood.
+**14.** ____ A position near the center of the political spectrum.
+**15.** ____ Party linked to Jefferson, farming, and stronger state power.
+**16.** ____ Law that divided public land into townships and sections for sale.
+**17.** ____ Wants to restore an earlier political or social order.
+**18.** ____ Plan for two houses and representation based on population or contribution.
+**19.** ____ Wants deep, basic change to the existing system.
+**20.** ____ Agreement creating a population-based House and equal-state Senate.
+
+Sources: Review pp. 4-8. Answer key: p. 19.
+---PAGE---
+# 15. Multiple choice: 1-5
+## Choose the best answer
+
+### 1. Which comparison of Pilgrims and Puritans is correct?
+A. Pilgrims wanted reform; Puritans separated from the Church of England.
+B. Pilgrims separated from the Church of England; Puritans wanted to reform it.
+C. Both groups founded Virginia to grow tobacco.
+D. Both groups immediately gave everyone equal religious rights.
+
+### 2. Which link between geography and colonial work is most accurate?
+A. Rocky New England soil supported large rice plantations.
+B. The South's short growing season prevented cash-crop farming.
+C. Middle-colony rivers made trade with ports impossible.
+D. Fertile land in the Middle colonies supported grain farming.
+
+### 3. Why did many colonists oppose the Tea Act even when company tea could be cheaper?
+A. They opposed the existing tax and special advantages given to the company.
+B. It required all colonists to buy tea from France.
+C. It removed every tax but banned drinking tea.
+D. It gave the colonies voting seats in Parliament.
+
+### 4. Which action belongs to the First Continental Congress?
+A. Adopting the Declaration of Independence in 1776.
+B. Creating the U.S. Constitution in 1787.
+C. Organizing resistance and a boycott in 1774.
+D. Choosing the first Supreme Court justices.
+
+### 5. Which sequence is in the correct order?
+A. Declaration → Stamp Act → Lexington and Concord → Boston Tea Party.
+B. Stamp Act → Boston Tea Party → Lexington and Concord → Declaration.
+C. Boston Tea Party → Declaration → Stamp Act → Lexington and Concord.
+D. Lexington and Concord → Stamp Act → Declaration → Boston Tea Party.
+
+Sources: Original practice based on pp. 1-8. Answer key: p. 20.
+---PAGE---
+# 16. Multiple choice: 6-10
+## Choose the best answer
+
+### 6. Why was Saratoga a turning point?
+A. It was the first fighting of the war.
+B. It immediately forced Britain to sign the peace treaty.
+C. It helped convince France to enter a formal alliance with the United States.
+D. It ended all American supply problems.
+
+### 7. How did the French fleet help at Yorktown?
+A. It blocked British rescue or escape by sea.
+B. It carried Cornwallis safely back to Britain.
+C. It opened the Mississippi to colonial settlement in 1763.
+D. It wrote the terms of the Articles of Confederation.
+
+### 8. Which statement best separates the Declaration from the Constitution?
+A. The Declaration created Congress; the Constitution declared independence.
+B. Both documents were adopted in 1776.
+C. The Constitution ended the war with Britain in 1783.
+D. The Declaration explains rights and independence; the Constitution sets up government.
+
+### 9. Which problem under the Articles most directly caused unreliable national income?
+A. Congress had no power to make treaties.
+B. Congress could not tax people directly and relied on state payments.
+C. Every state had the same population.
+D. The president could veto every tax bill.
+
+### 10. Which example matches the Northwest Ordinance of 1787?
+A. A territory follows a process to enter the Union as an equal state.
+B. A surveyor divides land into 36 sections under the 1785 law.
+C. Congress adds two senators for each county.
+D. The president creates the Bill of Rights.
+
+Sources: Original practice based on pp. 1-8. Answer key: p. 20.
+---PAGE---
+# 17. Multiple choice: 11-15
+## Choose the best answer
+
+### 11. What did the Three-Fifths Compromise do?
+A. Gave three-fifths of enslaved people the right to vote.
+B. Ended slavery in three-fifths of the states.
+C. Gave every state three-fifths of a Senate vote.
+D. Counted part of the enslaved population for House representation and direct taxes.
+
+### 12. The House impeaches a president. What does that mean?
+A. The president is automatically removed.
+B. The Supreme Court must now choose a new president.
+C. It brings charges; the Senate holds the trial and can convict and remove.
+D. The president has been convicted of an ordinary crime.
+
+### 13. The president vetoes a bill, and Congress overrides the veto. This is an example of:
+A. Eminent domain.
+B. Federalism.
+C. Popular sovereignty.
+D. Checks and balances.
+
+### 14. Police conduct an unreasonable search. Which amendment most directly applies?
+A. First Amendment.
+B. Fourth Amendment.
+C. Seventh Amendment.
+D. Tenth Amendment.
+
+### 15. A government takes private land for a public road. What does the Fifth Amendment require?
+A. A new federal election.
+B. A promise never to build another road.
+C. Just compensation for the owner.
+D. Permission to force the owner to house soldiers.
+
+Sources: Original practice based on pp. 1-8. Answer key: p. 20.
+---PAGE---
+# 18. Multiple choice: 16-20
+## Choose the best answer
+
+### 16. Which statement correctly separates the two juries?
+A. A grand jury considers a formal charge; a criminal trial jury decides guilt.
+B. A grand jury decides guilt; a trial jury only sets bail.
+C. Both juries decide whether the president should be impeached.
+D. Neither jury has any role in criminal cases.
+
+### 17. A criminal defendant needs witnesses for the defense. Which protection applies?
+A. The Seventh Amendment right to a civil jury.
+B. The Third Amendment rule on quartering soldiers.
+C. The Sixth Amendment right to use court process to obtain favorable witnesses.
+D. The Tenth Amendment rule on reserved powers.
+
+### 18. Which situation best illustrates the Eighth Amendment?
+A. A newspaper criticizes the president.
+B. A state claims a power not delegated to the national government.
+C. A homeowner objects to forced peacetime housing of soldiers.
+D. A court is challenged for imposing an excessive fine.
+
+### 19. Why is “1788” misleading for the worksheet's Hamilton-Jefferson party comparison?
+A. The ratification debate was in 1787-1788; organized party rivalry developed in the 1790s.
+B. Hamilton and Jefferson led the same party throughout the 1790s.
+C. The Constitution was first written in 1798.
+D. There was no debate over national power before 1800.
+
+### 20. How should you use the worksheet's comparison of modern Democrats and Republicans?
+A. As rules that every member follows on every issue.
+B. As broad tendencies that can vary by person, issue, and time.
+C. As proof that neither party ever favors national action.
+D. As evidence that modern parties exactly match the early parties.
+
+Sources: Original practice based on pp. 1-8. Answer key: p. 20.
+---PAGE---
+# 19. Answer key: blanks and matching
+## Check after finishing both sets
+
+### Fill in the blanks
+**1.** Mayflower Compact • **2.** Puritans • **3.** Middle colonies • **4.** Enlightenment
+
+**5.** Great Awakening • **6.** Stamp Act • **7.** Common Sense • **8.** Saratoga
+
+**9.** Yorktown • **10.** Treaty of Paris • **11.** Articles of Confederation • **12.** Shays' Rebellion
+
+**13.** Great Compromise • **14.** executive • **15.** judicial • **16.** petition
+
+**17.** Sixth Amendment • **18.** Seventh Amendment • **19.** Ninth Amendment • **20.** Tenth Amendment
+
+### Matching: questions 1-10
+**1. G:** Due process • **2. B:** Popular sovereignty
+**3. H:** Bail • **4. E:** Quartering of troops
+**5. D:** Federalism • **6. J:** Self-incrimination
+**7. A:** Eminent domain • **8. F:** Checks and balances
+**9. C:** Double jeopardy • **10. I:** Separation of powers
+
+### Matching: questions 11-20
+**11. N:** Federalist Party • **12. K:** New Jersey Plan
+**13. P:** Northwest Ordinance of 1787 • **14. R:** Moderate
+**15. L:** Democratic-Republicans • **16. M:** Land Ordinance of 1785
+**17. O:** Reactionary • **18. Q:** Virginia Plan
+**19. S:** Radical • **20. T:** Great Compromise
+
+**Review missed items:** Colonies and Revolution, pp. 1-3; founding and government, pp. 4-5; rights and terms, pp. 6-7; parties, p. 8.
+---PAGE---
+# 20. Answer key: multiple choice
+## Correct choices and short reasons
+
+**1. B.** Pilgrims were Separatists; Massachusetts Bay Puritans sought reform.
+
+**2. D.** Fertile soil supported grain; rivers and ports helped move it to markets.
+
+**3. A.** Price was not the only issue. Taxing authority and company privileges mattered.
+
+**4. C.** The First organized resistance. The Second directed the war and adopted independence.
+
+**5. B.** The dates are 1765, 1773, 1775, and 1776.
+
+**6. C.** The 1777 victory helped secure the formal French alliance in 1778.
+
+**7. A.** Naval pressure combined with American and French land forces to trap Cornwallis.
+
+**8. D.** The Declaration gives founding ideas; the Constitution gives the government structure.
+
+**9. B.** State contributions were unreliable. The Articles had no separate national executive.
+
+**10. A.** 1787 set territorial government and statehood rules; 1785 dealt with survey and sale.
+
+**11. D.** It increased slaveholding states' political power without giving enslaved people votes.
+
+**12. C.** Impeachment is an accusation. Senate conviction requires two-thirds of senators present.
+
+**13. D.** One branch limits another. An override needs two-thirds of each chamber.
+
+**14. B.** The Fourth protects against unreasonable searches and seizures.
+
+**15. C.** Public use and just compensation are key limits on taking private property.
+
+**16. A.** A charge is not a conviction. Grand-jury protection is in the Fifth Amendment.
+
+**17. C.** The Sixth covers defense witnesses as well as counsel, notice, and trial protections.
+
+**18. D.** The Eighth bars excessive bail, excessive fines, and cruel and unusual punishment.
+
+**19. A.** Federalists versus Anti-Federalists was the ratification debate, not the later party rivalry.
+
+**20. B.** The class table is a useful outline, but it does not describe every view or member.
+---PAGE---
+# 21. Sources
 ## Class sheets and links used for this guide
 
-**Class material:** IMG_7200-7209 and the four September 30 screenshots: legal terms, Bill of Rights, political parties, and U.S. government. The short guide keeps their main topics and corrects inaccurate notes. The seven writing prompts are shortened on p. 9.
+**Class material:** IMG_7200-7209 and the four September 30 screenshots: legal terms, Bill of Rights, political parties, and U.S. government. The short guide keeps their main topics and corrects inaccurate notes. Outlines are on p. 9; sample answers are on pp. 10-12. The 60 practice questions on pp. 13-18 are original, not the teacher's test.
 
 ### Settlement, Revolution, and founding
 **[1]** Plimoth Patuxet: [Mayflower Compact](https://plimoth.org/for-students/homework-help/mayflower-and-mayflower-compact); National Park Service: [Puritans](https://www.nps.gov/articles/puritans.htm).
