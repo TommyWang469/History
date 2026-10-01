@@ -37,7 +37,7 @@ def inline(text):
     return text
 
 def flowables(section, scale, page_num):
-    base = 10.5 if page_num < 21 else 9.5
+    base = 10.5 if page_num < 23 else 9.5
     styles = {
         'body': ParagraphStyle('body', fontName='Body', fontSize=base*scale,
             leading=(base+2.9)*scale, textColor=INK, spaceAfter=5.5*scale),
@@ -152,7 +152,7 @@ def main():
         pdf.line(LEFT, 31, WIDTH-RIGHT, 31)
         pdf.setFillColor(MUTED)
         pdf.setFont('Body', 8)
-        pdf.drawString(LEFT, 19, 'Class-aligned review • Updated September 30, 2026')
+        pdf.drawString(LEFT, 19, 'Class-aligned review • Updated October 1, 2026')
         pdf.drawRightString(WIDTH-RIGHT, 19, f'{number} / {len(sections)}')
         pdf.showPage()
         report.append(f'{number:02d}: scale={scale:.3f} used={used:.1f} remaining={AVAILABLE_HEIGHT-used:.1f} | {title}')

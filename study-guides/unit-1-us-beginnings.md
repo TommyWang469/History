@@ -1,7 +1,7 @@
 # U.S. Beginnings: key facts
 ## Unit 1 study guide • Short version
 
-**Review:** Colonies, p. 1 • Revolution, pp. 2-3 • Founding and government, pp. 4-7 • Parties, p. 8 • Writing, pp. 9-12 • Practice, pp. 13-18 • Answers, pp. 19-20 • Sources, p. 21
+**Review:** Colonies, p. 1 • Revolution, pp. 2-3 • Founding and government, pp. 4-7 • Parties, p. 8 • Writing, pp. 9-12 • Practice, pp. 13-18 • Answers, pp. 19-20 • Declaration sheets, pp. 21-22 • Sources, p. 23
 
 ### Pilgrims and Puritans
 **Pilgrims:** Religious Separatists left the Church of England. They settled Plymouth in **1620**. William Bradford was a key leader.
@@ -276,7 +276,7 @@ These are broad class labels, not rules for every person or issue. Both parties 
 **Radical:** Wants deep change. **Liberal:** Favors reform. **Moderate:** Near the center. **Conservative:** Values tradition and slower change. **Reactionary:** Wants to restore an earlier order.
 These labels depend on the time and issue. Radical does not automatically mean violent.
 
-Sources: New parties sheet; [17-18]. Modern labor/regulation examples also appear in the 2024 party platforms listed on p. 21.
+Sources: New parties sheet; [17-18]. Modern labor/regulation examples also appear in the 2024 party platforms listed on p. 23.
 ---PAGE---
 # 9. Seven writing prompts
 ## Short outlines for the teacher's half-page responses
@@ -345,7 +345,7 @@ The Declaration of Independence laid a foundation for American government by lin
 ### 5. Was the government under the Articles effective?
 The Articles of Confederation created a useful union, but the national government was too weak to solve major problems. Congress could make treaties, conduct war, and pass laws for western lands. The Land Ordinance of 1785 organized land surveys and sales, while the Northwest Ordinance of 1787 created a path to statehood. These were lasting successes. However, Congress could not tax people directly and had to ask states for money. This made paying debts and supporting the army difficult. It also lacked broad power over trade, so states could make conflicting rules. Changing the Articles required all thirteen states to agree, making reform hard. Shays' Rebellion increased concern about instability and weak national power. Overall, the Articles provided cooperation and useful land policies but lacked the strength needed for lasting national government.
 
-Sources: Teacher prompts from IMG_7201; review facts and sources on pp. 1-8.
+Sources: Teacher prompts from IMG_7201; review facts and sources on pp. 1-8. Declaration worksheet answers: pp. 21-22.
 ---PAGE---
 # 12. Example answers: 6-7
 ## Use the outlines on p. 9; write in your own words
@@ -641,10 +641,86 @@ Sources: Original practice based on pp. 1-8. Answer key: p. 20.
 
 **20. B.** The class table is a useful outline, but it does not describe every view or member.
 ---PAGE---
-# 21. Sources
+# 21. Declaration: worksheet answers
+## The two pages added October 1
+
+These answers follow the five text blocks in your photos. The general review is on p. 4; the longer example answer is on p. 11.
+
+### 1. How do the colonists view their new nation? What is this document doing?
+**Text clue:** “separate and equal station.”
+**Plain meaning:** They claim the right to break political ties with Britain and take an independent place alongside other nations.
+**Answer:** They see themselves as independent and equal in standing to other nations. The Declaration announces the break and explains its reasons to the world.
+
+### 2. Which democratic ideas appear in the rights paragraph?
+**Text clue:** “consent of the governed.”
+**Answer:** People are equal in their natural rights. Those rights include life, liberty, and the pursuit of happiness. Government exists to protect these rights, and its rightful power comes from the people's agreement.
+**Important:** Include consent, not just the three rights. These were ideals; slavery and unequal political rights still existed in 1776.
+
+### 3. What justifies revolution? What is government's purpose?
+**Text clue:** Government becomes “destructive of these ends.”
+**Answer:** Government should protect rights and support people's safety and happiness. When it repeatedly destroys these goals, people may change or end it and create a government that protects them better.
+**“These ends” means:** The goals of protecting rights, safety, and happiness. It does not mean any policy people happen to dislike.
+
+### 4. What does Jefferson say will fix the “evils” people suffer?
+**Text clue:** “light and transient causes.”
+**Answer:** People can correct serious abuses by changing or replacing an abusive government. But Jefferson first warns that an old government should not be overthrown for small, temporary problems. People usually put up with harms they can bear rather than replace a familiar system.
+**Correct the note:** The point is more than “get rid of English laws.” This paragraph explains why people hesitate to revolt; the next explains when a lasting pattern of abuse makes revolt justified.
+
+### 5. What do the colonists accuse Britain of doing? What is their solution?
+**Text clue:** “a long train of abuses and usurpations.”
+**Answer:** They accuse the king of repeated abuses and taking powers he has no right to use, aiming at absolute control over the colonies. They argue that this pattern makes it their right and duty to reject his rule, become independent, and build new safeguards for their future security.
+**Keep the argument clear:** This is the colonists' accusation and justification for independence.
+
+Sources: IMG_20261001_152947.jpg, text blocks 1-2; IMG_20261001_152955.jpg, text blocks 3-5. Checked against the National Archives Declaration transcript [8], October 1, 2026.
+---PAGE---
+# 22. Declaration: words to know
+## Simple meanings in these two worksheet pages
+
+### Opening: breaking political ties
+**Unanimous:** All agree. **Course of human events:** The way history unfolds.
+**Dissolve:** End or break apart. **Political bands:** Political ties or connections.
+**Assume:** Take on. **Station:** Position or standing.
+**Entitle:** Give a right to. **Impel:** Push or strongly urge.
+
+### Rights and consent
+**Self-evident:** Treated as clearly true. **Endowed:** Given.
+**Unalienable:** Inherent rights that cannot rightfully be taken away or given up.
+**Secure:** Protect. **Instituted:** Created or established.
+**Deriving:** Getting from. **Consent:** Agreement.
+**Governed:** The people under a government's rule.
+
+### Changing government
+**Destructive:** Harmful or damaging. **Ends:** Goals or purposes.
+**Alter:** Change. **Abolish:** End or get rid of.
+**Institute:** Create or establish. **Foundation:** Basic principles something rests on.
+**Effect:** Bring about or achieve; here, bring about safety and happiness.
+
+### Why people hesitate to revolt
+**Prudence:** Careful judgment or common sense. **Dictate:** Require or guide a decision.
+**Light causes:** Small or minor reasons. **Transient:** Temporary or short-lived.
+**Hath / shewn:** Has / shown. **Disposed:** Inclined or likely.
+**Evils:** Harms or abuses. **Sufferable:** Bearable; possible to put up with.
+**Accustomed:** Used to. **Right themselves:** Correct the wrongs done to them.
+
+### Repeated abuse and the solution
+**Long train:** Long series. **Usurpations:** Taking or using power without the right to do so.
+**Invariably:** Always or without change. **Object:** Goal or purpose.
+**Evinces:** Shows clearly. **Design:** Plan or intention.
+**Despotism / tyranny:** Oppressive rule with unchecked power.
+**Patient sufferance:** Enduring hardship for a long time.
+**Necessity:** Something that makes action needed. **Constrains:** Forces or compels.
+**New guards:** New protections or safeguards, not simply soldiers.
+
+### Two definitions to fix
+**Invariably does not mean “only.”** The claim is that repeated abuses keep serving the same goal.
+**Unalienable is stronger than “guaranteed.”** The rights belong to people by nature; government is supposed to protect them.
+
+Sources: Vocabulary printed or written on the two October 1 worksheets; meanings explained in the context of the Declaration [8].
+---PAGE---
+# 23. Sources
 ## Class sheets and links used for this guide
 
-**Class material:** IMG_7200-7209 and the four September 30 screenshots: legal terms, Bill of Rights, political parties, and U.S. government. The short guide keeps their main topics and corrects inaccurate notes. Outlines are on p. 9; sample answers are on pp. 10-12. The 60 practice questions on pp. 13-18 are original, not the teacher's test.
+**Class material:** IMG_7200-7209 and the four September 30 screenshots: legal terms, Bill of Rights, political parties, and U.S. government. Added October 1: two Declaration worksheets (IMG_20261001_152947.jpg and IMG_20261001_152955.jpg), covered on pp. 21-22. Outlines are on p. 9; sample answers are on pp. 10-12. The 60 practice questions on pp. 13-18 are original, not the teacher's test.
 
 ### Settlement, Revolution, and founding
 **[1]** Plimoth Patuxet: [Mayflower Compact](https://plimoth.org/for-students/homework-help/mayflower-and-mayflower-compact); National Park Service: [Puritans](https://www.nps.gov/articles/puritans.htm).
@@ -668,4 +744,4 @@ Sources: Original practice based on pp. 1-8. Answer key: p. 20.
 **[17]** Library of Congress: [Early parties](https://www.loc.gov/exhibits/jefferson/jefffed.html?loclr=blogtea); Stanford Encyclopedia: [Conservatism](https://plato.stanford.edu/entries/conservatism/), [liberalism](https://plato.stanford.edu/entries/liberalism/).
 **[18]** Primary party documents: [2024 Democratic platform](https://democrats.org/where-we-stand/party-platform/); [2024 Republican platform](https://www.presidency.ucsb.edu/documents/2024-republican-party-platform). These give dated examples, not fixed rules for every party member.
 
-Sources: Research carried over from the full guide; consulted September 23 and 30, 2026.
+Sources: Original research consulted September 23 and 30, 2026. Declaration text [8] rechecked October 1, 2026.
