@@ -37,7 +37,7 @@ def inline(text):
     return text
 
 def flowables(section, scale, page_num):
-    base = 10.3 if page_num < 23 else 9.5
+    base = 10.5 if page_num < 11 else 9.5
     styles = {
         'body': ParagraphStyle('body', fontName='Body', fontSize=base*scale,
             leading=(base+2.9)*scale, textColor=INK, spaceAfter=5.5*scale),
@@ -72,20 +72,14 @@ def flowables(section, scale, page_num):
             n = len(rows[0])
             if n == 4:
                 widths = [74, 149.3, 149.3, 149.4]
-                if page_num == 13:
-                    widths = [86, 119, 113, 204]
             elif n == 2:
-                widths = [166, 356]
-                if page_num == 13:
-                    widths = [316, 206]
-                if page_num == 1:
-                    widths = [75, 447]
+                widths = [145, 377]
+                if page_num == 6:
+                    widths = [30, 492]
+                if page_num == 8:
+                    widths = [261, 261]
             elif n == 3:
-                widths = [118, 217, 187]
-                if page_num == 14:
-                    widths = [30, 287, 205]
-                if page_num == 23:
-                    widths = [92, 192, 238]
+                widths = [110, 206, 206]
             else:
                 widths = [AVAILABLE_WIDTH/n]*n
             data = [[Paragraph(inline(cell), styles['th' if r == 0 else 'cell'])
@@ -97,8 +91,8 @@ def flowables(section, scale, page_num):
                 ('VALIGN', (0,0), (-1,-1), 'TOP'),
                 ('LEFTPADDING', (0,0), (-1,-1), 7*scale),
                 ('RIGHTPADDING', (0,0), (-1,-1), 7*scale),
-                ('TOPPADDING', (0,0), (-1,-1), 6*scale),
-                ('BOTTOMPADDING', (0,0), (-1,-1), 6*scale),
+                ('TOPPADDING', (0,0), (-1,-1), (4 if page_num == 2 else 6)*scale),
+                ('BOTTOMPADDING', (0,0), (-1,-1), (4 if page_num == 2 else 6)*scale),
                 ('LINEBELOW', (0,0), (-1,0), .5, ACCENT),
                 ('LINEBELOW', (0,1), (-1,-1), .3, RULE),
             ]))
@@ -158,7 +152,7 @@ def main():
         pdf.line(LEFT, 31, WIDTH-RIGHT, 31)
         pdf.setFillColor(MUTED)
         pdf.setFont('Body', 8)
-        pdf.drawString(LEFT, 19, 'Class-aligned review • September 2026')
+        pdf.drawString(LEFT, 19, 'Class-aligned review • Updated September 30, 2026')
         pdf.drawRightString(WIDTH-RIGHT, 19, f'{number} / {len(sections)}')
         pdf.showPage()
         report.append(f'{number:02d}: scale={scale:.3f} used={used:.1f} remaining={AVAILABLE_HEIGHT-used:.1f} | {title}')
