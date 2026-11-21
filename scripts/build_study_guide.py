@@ -1,6 +1,7 @@
 """Render the reviewed, page-delimited study guide with ReportLab."""
 from pathlib import Path
 import re
+import sys
 from html import escape
 from reportlab.pdfgen import canvas
 from reportlab.lib.colors import HexColor, white
@@ -11,8 +12,14 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfbase.pdfmetrics import registerFontFamily
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE = ROOT / 'study-guides/unit-1-us-beginnings.md'
-OUTPUT = ROOT / 'output/pdf/unit-1-us-beginnings-study-guide.pdf'
+SOURCE = ROOT / (sys.argv[1] if len(sys.argv) > 1 else 'study-guides/unit-1-us-beginnings.md')
+OUTPUT = ROOT / 'output/pdf' / f'{SOURCE.stem}-study-guide.pdf'
+UNIT1 = SOURCE.stem == 'unit-1-us-beginnings'  # page-specific layout tweaks below are Unit 1 only
+# header, PDF title, footer per guide
+LABELS = {
+    'unit-1-us-beginnings': ('U.S. BEGINNINGS  /  UNIT 1', 'Unit 1: U.S. Beginnings - Study Guide', 'Updated October 1, 2026'),
+    'civil-war-reconstruction': ('CIVIL WAR AND RECONSTRUCTION', 'Civil War and Reconstruction - Study Guide', 'Updated November 21, 2026'),
+}
 FONT_DIR = Path('/System/Library/Fonts/Supplemental')
 for name, filename in [('Body', 'Arial.ttf'), ('BodyBold', 'Arial Bold.ttf'),
                        ('BodyItalic', 'Arial Italic.ttf'), ('BodyBoldItalic', 'Arial Bold Italic.ttf'),
@@ -36,8 +43,8 @@ def inline(text):
     text = re.sub(r'\*\*(.+?)\*\*', r'<b>\1</b>', text)
     return text
 
-def flowables(section, scale, page_num):
-    base = 10.5 if page_num < 23 else 9.5
+def flowables(section, scale, page_num, last=False):
+    base = 9.5 if last else 10.5
     styles = {
         'body': ParagraphStyle('body', fontName='Body', fontSize=base*scale,
             leading=(base+2.9)*scale, textColor=INK, spaceAfter=5.5*scale),
@@ -74,9 +81,9 @@ def flowables(section, scale, page_num):
                 widths = [74, 149.3, 149.3, 149.4]
             elif n == 2:
                 widths = [145, 377]
-                if page_num == 6:
+                if UNIT1 and page_num == 6:
                     widths = [30, 492]
-                if page_num == 8:
+                if UNIT1 and page_num == 8:
                     widths = [261, 261]
             elif n == 3:
                 widths = [110, 206, 206]
@@ -91,8 +98,8 @@ def flowables(section, scale, page_num):
                 ('VALIGN', (0,0), (-1,-1), 'TOP'),
                 ('LEFTPADDING', (0,0), (-1,-1), 7*scale),
                 ('RIGHTPADDING', (0,0), (-1,-1), 7*scale),
-                ('TOPPADDING', (0,0), (-1,-1), (4 if page_num == 2 else 6)*scale),
-                ('BOTTOMPADDING', (0,0), (-1,-1), (4 if page_num == 2 else 6)*scale),
+                ('TOPPADDING', (0,0), (-1,-1), (4 if UNIT1 and page_num == 2 else 6)*scale),
+                ('BOTTOMPADDING', (0,0), (-1,-1), (4 if UNIT1 and page_num == 2 else 6)*scale),
                 ('LINEBELOW', (0,0), (-1,0), .5, ACCENT),
                 ('LINEBELOW', (0,1), (-1,-1), .3, RULE),
             ]))
@@ -122,15 +129,17 @@ def main():
     sections = SOURCE.read_text().split('---PAGE---')
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     pdf = canvas.Canvas(str(OUTPUT), pagesize=(WIDTH, HEIGHT), pageCompression=1)
-    pdf.setTitle('Unit 1: U.S. Beginnings - Study Guide')
+    header, doc_title, footer = LABELS[SOURCE.stem]
+    pdf.setTitle(doc_title)
     pdf.setAuthor('Study guide prepared from class worksheets and cited sources')
     report = []
     for number, section in enumerate(sections, 1):
         scale = 1.0
-        blocks = flowables(section, scale, number)
+        last = section.strip().splitlines()[0].endswith('Sources')  # sources page uses smaller type
+        blocks = flowables(section, scale, number, last)
         while measure(blocks) > AVAILABLE_HEIGHT and scale > .895:
             scale = round(scale-.005, 3)
-            blocks = flowables(section, scale, number)
+            blocks = flowables(section, scale, number, last)
         used = measure(blocks)
         if used > AVAILABLE_HEIGHT:
             raise ValueError(f'Page {number} too long: {used:.1f} > {AVAILABLE_HEIGHT}')
@@ -139,7 +148,7 @@ def main():
         pdf.addOutlineEntry(title, f'page-{number}', 0, False)
         pdf.setFillColor(MUTED)
         pdf.setFont('BodyBold', 8)
-        pdf.drawString(LEFT, HEIGHT-28, 'U.S. BEGINNINGS  /  UNIT 1')
+        pdf.drawString(LEFT, HEIGHT-28, header)
         pdf.setStrokeColor(RULE)
         pdf.line(LEFT, HEIGHT-35, WIDTH-RIGHT, HEIGHT-35)
         y = HEIGHT-TOP
@@ -152,14 +161,11 @@ def main():
         pdf.line(LEFT, 31, WIDTH-RIGHT, 31)
         pdf.setFillColor(MUTED)
         pdf.setFont('Body', 8)
-        pdf.drawString(LEFT, 19, 'Class-aligned review • Updated October 1, 2026')
+        pdf.drawString(LEFT, 19, f'Class-aligned review • {footer}')
         pdf.drawRightString(WIDTH-RIGHT, 19, f'{number} / {len(sections)}')
         pdf.showPage()
         report.append(f'{number:02d}: scale={scale:.3f} used={used:.1f} remaining={AVAILABLE_HEIGHT-used:.1f} | {title}')
     pdf.save()
-    qa = ROOT/'tmp/pdfs/layout-report.txt'
-    qa.parent.mkdir(parents=True, exist_ok=True)
-    qa.write_text('\n'.join(report)+'\n')
     print('\n'.join(report))
     print(OUTPUT)
 
